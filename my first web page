@@ -12,6 +12,6 @@
             <li>Second class is environmental science</li>
             <li>Third class is web development</li>
         </ol>
-        <img src="flower.jpg" alt="yellow flower" width="500" height="600">
+        <img src="Nathan portfolio/imagies/yellowflower.jpg" alt="yellow flower" width="200" height="300">
     </body>
 </html>
