@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-        <link rel='stylesheet' href='style.css'>
-        <title>My First Web Page</title>
-    </head>
-    <body>
-        <h1>Welcome to My First Web Page</h1>
-        <p>Below are the classes I am taking:</p>
-        <ol>
+    <link rel="stylesheet" href="style.css">
+    <title>My First Web></title>
+<body>
+    <h1>Welcome to My First Web Page</h1>
+    <p>Below are the classes I am taking:</p>
+        <ul>
             <li><h2>First class is business communication</h2></li>
             <li><h3>Second class is environmental science </h3></li>
-            <li>Third class is web development</li>
-        </ol>
-        <img src="Nathan portfolio/imagies/yellowflower.jpg" alt="yellow flower" width="200" height="300" style="margin-left: 20px; margin-top: 20px; padding: 10px; border: 5px solid rgb(248, 24, 192);">
+            <li><h4>Third class is web development</h4></li>
+        </ul>
+        
+        <img src="Nathan portfolio/images/yellowflower.jpg" alt="yellow flower" width="200" height="300" style="margin-left: 20px; margin-top: 20px; padding: 10px; border: 5px solid rgb(248, 24, 192);">
 
         <footer>
         <p>Copyright &copy; 2026 Nathan</p>
     </footer>
-</html>
+</html>>

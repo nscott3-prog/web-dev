@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title></title>
+    </head>
+    <body><h1 style='text-align: center;'>Nathaniel Scott Portfolio</h1>
+    <ul>
+        <li><a href="index.html"><img src="Nathan portfolio/images/home.jpg" alt="Home"></a></li>
+        <li><a href="Projects.html"><img src="Nathan portfolio/images/projects-work.jpg" alt="Projects / Work"></a></li>
+        <li><a href="contact.html"><img src="Nathan portfolio/images/About-Contacts.jpg" alt="Contacts / About"></a></li>
+    </body>
+    <footer>
+        <p>Copyright &copy; 2026 Nathaniel Scott</p>
+    </footer>
+</html>
