@@ -21,12 +21,13 @@ border: 5px solid purple;}
          flex-direction: column;
          gap: 1rem;
  }
-         @layer presentation{
-            boddy }
-                background-color: white;
-                display: grid;
-                height: 100vh;
-                place-items: center;
+         @layer presentation {
+    body {
+        background-color: white;
+        display: grid;
+        height: 100vh;
+        place-items: center;
+    }
          
             
             ul{
