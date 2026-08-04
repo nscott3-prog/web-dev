@@ -2,16 +2,19 @@
 <html>
 <head>
     <link rel="stylesheet" href="style.css">
+
     <title>Nathaniel Scott Portfolio></title>
  <body>  
-  
+        <h1>Welcome to My Portfolio</h1>
         <nav>
             <div class="nav-links"> 
-    <ul>               
+    <ul> 
+        <fieldset>
+            <legend>Navigation</legend>              
         <li><a href="index.html"><img src="Nathan portfolio/images/home.jpg" alt="Home"></a></li>
         <li><a href="Projects.html"><img src="Nathan portfolio/images/projects-work.jpg" alt="Projects / Work"></a></li>
         <li><a href="contact.html"><img src="Nathan portfolio/images/About-Contacts.jpg" alt="Contacts / About"></a></li>      
-               
+          </fieldset>        
     </ul>
 </div>
                 
